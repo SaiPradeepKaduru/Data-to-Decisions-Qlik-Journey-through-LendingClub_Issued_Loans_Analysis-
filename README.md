@@ -11,6 +11,3 @@ _dataset-2_ https://drive.google.com/file/d/1NOM-RDs9tRVDMeky4gWNjVTgAjGbZtm7/vi
 # Processed dataset link 
 https://8sjxb9tnauauxbd.sg.qlikcloud.com/dataset/6664c25a63c997dd69c64ca7
 
-# Dashboard link
-https://8sjxb9tnauauxbd.sg.qlikcloud.com/single/?appid=edc56d94-3fcf-48b6-9c2a-9420c7ea53d0&sheet=mpf&theme=horizon&opt=ctxmenu,currsel&identity=preview
-
